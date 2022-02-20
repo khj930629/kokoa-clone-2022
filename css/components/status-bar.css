@@ -4,6 +4,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
+  background-color: white;
   padding: 5px 3px;
   box-sizing: border-box;
 }
