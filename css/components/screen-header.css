@@ -5,7 +5,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: white;
-  padding: 20px;
+  padding: var(--horizontal-space);
   top: 25px;
   box-sizing: border-box;
 }
