@@ -6,6 +6,7 @@
   align-items: center;
   background-color: white;
   padding: var(--horizontal-space);
+  margin-bottom: 15px;
   top: 25px;
   box-sizing: border-box;
 }
