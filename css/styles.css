@@ -18,3 +18,8 @@ body {
   font-family: "Open Sans", sans-serif;
   height: 1000vh;
 }
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
+  padding-top: 112px;
+}
