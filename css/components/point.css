@@ -1,5 +1,5 @@
 .more__point {
-  background-color: tomato;
+  background-color: var(--tomato);
   width: 8px;
   height: 8px;
   border-radius: 4px;
@@ -9,11 +9,15 @@
 }
 
 .cong__point {
-  background-color: tomato;
+  background-color: var(--tomato);
   width: 6px;
   height: 6px;
   border-radius: 3px;
   position: absolute;
   right: -5px;
   top: -7px;
+}
+
+.phonenumber__point {
+  color: var(--tomato);
 }
